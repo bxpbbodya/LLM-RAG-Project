@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Index / cache (можна залишити або ні — я раджу НЕ комітити)
+index/
